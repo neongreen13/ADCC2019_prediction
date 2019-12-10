@@ -10,3 +10,5 @@ Blog Articles on what this means for Brazilian Jiu Jitsu
 https://bjjdatabyriggs.blogspot.com/2019/10/part-1-adcc-championship-can-we-predict.html 
 - Part 2: ADCC Championship: We Can Predict the Winners, But Only 70% of the Time 
 https://bjjdatabyriggs.blogspot.com/2019/12/part-2-adcc-championship-can-we-predict.html 
+
+Limitation: More data on experience and better cleaning on fighter data would enhance this project.
